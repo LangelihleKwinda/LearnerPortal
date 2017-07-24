@@ -1,0 +1,19 @@
+c:\users\tankiso kekana\documents\visual studio 2015\Projects\eLearning\eLearning\bin\Debug\eLearning.exe.config
+c:\users\tankiso kekana\documents\visual studio 2015\Projects\eLearning\eLearning\bin\Debug\eLearning.exe
+c:\users\tankiso kekana\documents\visual studio 2015\Projects\eLearning\eLearning\bin\Debug\eLearning.pdb
+c:\users\tankiso kekana\documents\visual studio 2015\Projects\eLearning\eLearning\obj\Debug\eLearning.frmServerConfig.resources
+c:\users\tankiso kekana\documents\visual studio 2015\Projects\eLearning\eLearning\obj\Debug\eLearning.Properties.Resources.resources
+c:\users\tankiso kekana\documents\visual studio 2015\Projects\eLearning\eLearning\obj\Debug\eLearning.csproj.GenerateResource.Cache
+c:\users\tankiso kekana\documents\visual studio 2015\Projects\eLearning\eLearning\obj\Debug\eLearning.exe
+c:\users\tankiso kekana\documents\visual studio 2015\Projects\eLearning\eLearning\obj\Debug\eLearning.pdb
+C:\Users\Tankiso Kekana\Documents\Visual Studio 2015\Projects\eLearning\eLearning\obj\Debug\eLearning.csprojResolveAssemblyReference.cache
+C:\LearnerPortal_InstallPackDB\eLearning\eLearning\bin\Debug\eLearning.exe.config
+C:\LearnerPortal_InstallPackDB\eLearning\eLearning\bin\Debug\eLearning.exe
+C:\LearnerPortal_InstallPackDB\eLearning\eLearning\bin\Debug\eLearning.pdb
+C:\LearnerPortal_InstallPackDB\eLearning\eLearning\obj\Debug\eLearning.Form1.resources
+C:\LearnerPortal_InstallPackDB\eLearning\eLearning\obj\Debug\eLearning.frmLogin.resources
+C:\LearnerPortal_InstallPackDB\eLearning\eLearning\obj\Debug\eLearning.frmServerConfig.resources
+C:\LearnerPortal_InstallPackDB\eLearning\eLearning\obj\Debug\eLearning.Properties.Resources.resources
+C:\LearnerPortal_InstallPackDB\eLearning\eLearning\obj\Debug\eLearning.csproj.GenerateResource.Cache
+C:\LearnerPortal_InstallPackDB\eLearning\eLearning\obj\Debug\eLearning.exe
+C:\LearnerPortal_InstallPackDB\eLearning\eLearning\obj\Debug\eLearning.pdb
